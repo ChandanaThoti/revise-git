@@ -10,6 +10,7 @@
 - Git Basic commands
 ## Installation
 - Clone Repository: git clone git@github.com:ChandanaThoti/revise-git.git
-- cd revise-git
+  * Change Directory to the project: cd revise-git
 - Install Dependencies:
-- 
+  *   npm install #for react projects
+  *   pip flask #for python projects
