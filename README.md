@@ -9,4 +9,7 @@
 ## Technologies
 - Git Basic commands
 ## Installation
--Clone Repository:
+- Clone Repository: git clone git@github.com:ChandanaThoti/revise-git.git
+- cd revise-git
+- Install Dependencies:
+- 
